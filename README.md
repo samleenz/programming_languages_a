@@ -1,3 +1,4 @@
 Scripts and related files for the 'Programming Languages A' course located on Coursera and administered by the University of Washington
 
-Feel free to use / modify if you want but probably best not to just copy for the course...
+The presence of these files is not intened to violate the honour code,
+they are uploaded for personal use between computer systems and future reference. 
